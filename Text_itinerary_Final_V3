@@ -1,13 +1,11 @@
 import dspy
 import os
 from langchain_community.vectorstores import Pinecone
-from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
 load_dotenv
-from pinecone import Pinecone, ServerlessSpec
+from pinecone import Pinecone
 from langchain_pinecone import PineconeVectorStore
 import json
-from langchain_core.documents import Document
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.prompts import PromptTemplate
 import google.generativeai as genai
@@ -61,13 +59,6 @@ query1 = "Can you suggest a 4-day plan for exploring caves, forests, and geologi
 
 Prompt = prompt_template.format(input_val=f"{input_val}",query1=f"{query1}")
 #print(Prompt)
-
-
-# with open("Haylese_text_dspy_input_6", "w") as file:
-#     file.write(Prompt)
-
-# output_path = r"C:\Evoq\Text_to_Json_Haylise\Text_itinerary_dspy_V6\Haylese_text_dspy_Output_6.json"
-
 
 class GeminiLM(dspy.LM):
     def __init__(self, model, apikey=None, endpoint=None):
