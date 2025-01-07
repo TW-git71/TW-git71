@@ -1,0 +1,12 @@
+#ignore all text files
+*.txt
+
+#ignore all json files
+*.json
+
+#ignore all env file
+*.env
+
+#ignore all environments
+.env
+.venv
