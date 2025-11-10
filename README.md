@@ -5,7 +5,7 @@
 
 - 📊 Skilled in **predictive modeling**, **deep learning**, and **generative AI**
 
-- 🌱 💡 Experienced in **LLMs**, **RAG pipelines**, **prompt engineering**, and **data-driven application development**
+- 💡 Experienced in **LLMs**, **RAG pipelines**, **prompt engineering**, and **data-driven application development**
 
 - ☁️ Hands-on with **Google Cloud Platform (GCP)**, **MLflow**, and **Python-based ML frameworks**
 
@@ -14,7 +14,7 @@
 - 🤝 Believe in collaboration, open-source contributions, and sharing knowledge with the tech community
 
 - 🌟 On a mission to create meaningful impact through AI-driven innovation
-- 
+  
 - 📫 How to reach me **thiliniwijesinghe2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
