@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Thilini Wijesinghe</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
+<h3 align="center">Passionate Machine Learning Engineer and Data Science Enthusiast with a strong foundation in computational mathematics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tw-git71&label=Profile%20views&color=0e75b6&style=flat" alt="tw-git71" /> </p>
 
-- 🔭 I’m currently working on **ItineararyGenerator**
+- 📊 Skilled in **predictive modeling**, **deep learning**, and **generative AI**
 
-- 🌱 I’m currently learning **GenAi**
+- 🌱 💡 Experienced in **LLMs**, **RAG pipelines**, **prompt engineering**, and **data-driven application development**
 
-- 👯 I’m looking to collaborate on **ItineararyGenerator**
+- ☁️ Hands-on with **Google Cloud Platform (GCP)**, **MLflow**, and **Python-based ML frameworks**
 
-- 💬 Ask me about **GenAi, Python**
+- 🧠 Fascinated by solving complex real-world problems using **math**, **data**, and **AI innovation**
 
+- 🤝 Believe in collaboration, open-source contributions, and sharing knowledge with the tech community
+
+- 🌟 On a mission to create meaningful impact through AI-driven innovation
+- 
 - 📫 How to reach me **thiliniwijesinghe2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
